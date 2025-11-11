@@ -1,5 +1,3 @@
-# QQmail_stmp_for_centos
-qq邮箱的stmp自动发送邮件服务项目（可使用pm2部署）
 # QQ邮箱自动发送邮件服务
 
 一个基于Node.js的HTTP服务，封装QQ邮箱SMTP功能，提供REST API接口，允许Python脚本或其他程序通过HTTP请求快速发送邮件。
